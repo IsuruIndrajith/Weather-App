@@ -3,7 +3,7 @@
 
 A sleek and simple web application that displays real-time weather data for any city you search. Powered by a weather API, this app is a perfect way to explore current weather conditions across the globe.  
 
-![Weather App Demo](https://via.placeholder.com/800x400.png?text=Insert+Your+App+Screenshot+Here)
+![Weather App Demo]([https://via.placeholder.com/800x400.png?text=Insert+Your+App+Screenshot+Here](https://github.com/IsuruIndrajith/Weather-App/blob/main/Screen%20Shots/ss1.png))
 
 ---
 
@@ -16,7 +16,7 @@ A sleek and simple web application that displays real-time weather data for any 
 
 ## 🛠️ Technologies Used  
 - **Frontend**: HTML, CSS, JavaScript  
-- **API**: [OpenWeatherMap API](https://openweathermap.org/)  
+- **API**: [OpenWeather]([https://openweathermap.org/](https://openweathermap.org/))  
 
 ---
 
@@ -34,7 +34,7 @@ A sleek and simple web application that displays real-time weather data for any 
 ---
 
 ## 🌟 Screenshots  
-![Weather App Screenshot](https://via.placeholder.com/800x400.png?text=Insert+Screenshot+Here)
+![Weather App Screenshot]([https://via.placeholder.com/800x400.png?text=Insert+Screenshot+Here](https://github.com/IsuruIndrajith/Weather-App/blob/main/Screen%20Shots/Weather-App.png))
 
 ---
 
@@ -50,5 +50,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact  
 If you have any questions or feedback, feel free to reach out:  
-📧 Email: your-email@example.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📧 Email: isuruIndrajith680@gmail.com 
+💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/isuru-indrajith-387ab7278)  
