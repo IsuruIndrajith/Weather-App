@@ -3,7 +3,7 @@
 
 A sleek and simple web application that displays real-time weather data for any city you search. Powered by a weather API, this app is a perfect way to explore current weather conditions across the globe.  
 
-![Weather App Demo]([https://via.placeholder.com/800x400.png?text=Insert+Your+App+Screenshot+Here](https://github.com/IsuruIndrajith/Weather-App/blob/main/Screen%20Shots/ss1.png))
+![Weather App Demo](Screen Shots/Weather-App.png)
 
 ---
 
@@ -34,7 +34,7 @@ A sleek and simple web application that displays real-time weather data for any 
 ---
 
 ## 🌟 Screenshots  
-![Weather App Screenshot]([https://via.placeholder.com/800x400.png?text=Insert+Screenshot+Here](https://github.com/IsuruIndrajith/Weather-App/blob/main/Screen%20Shots/Weather-App.png))
+![Weather App Screenshot](Screen shots/ss1.png)
 
 ---
 
@@ -51,4 +51,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact  
 If you have any questions or feedback, feel free to reach out:  
 📧 Email: isuruIndrajith680@gmail.com 
-💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/isuru-indrajith-387ab7278)  
+💼 LinkedIn: [Isuru Indrajith](www.linkedin.com/in/isuru-indrajith-387ab7278)  
